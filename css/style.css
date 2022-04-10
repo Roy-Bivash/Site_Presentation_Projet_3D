@@ -1,0 +1,46 @@
+body {
+	background-color: #212F3C;
+	color: white;
+}
+
+.txt-center {
+	text-align: center;
+}
+
+.titre {
+	margin-top: 40vh;
+}
+.scroll-Buttun {
+	margin-top: 35vh;
+	text-align: center;
+}
+#btnscroll {
+	border-radius: 50%;
+	background-color: transparent;
+	border: none;
+	outline: none;
+	cursor: pointer;
+}
+
+.separation1{
+	margin-top: 16vh;
+}
+
+.separation2{
+	margin-top: 55vh;
+}
+.separation3{
+	margin-top: 10vh;
+}
+
+.centerObjet{
+	margin-top: 35vh;
+	text-align: center;
+}
+.separationPied{
+	margin-top: 15vh;
+}
+
+.piedDePage{
+	background-color: #1E374F;
+}
